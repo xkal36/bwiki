@@ -1,1 +1,1 @@
-Blog/Wiki/rot13 form I built to learn web development as part of Udacity's CS253 course. 
+Blog/Wiki/rot13 form I built as part of Udacity's CS253: Web Development, taught by Steve Huffman. 
